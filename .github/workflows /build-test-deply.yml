@@ -1,4 +1,4 @@
-name: build-hello-world
+name: build-hello-world2
 on: push
 jobs:
   hello-world-job:
